@@ -15,6 +15,9 @@ This repo turns probability theory into deployable trading tools.
 • 🧪 Convergence analysis & statistical validation  
 • 📉 Tail risk, heavy tails, Sharpe, VaR diagnostics  
 
+
+<img width="720" height="553" alt="image" src="https://github.com/user-attachments/assets/396794c4-d57f-4860-813d-737bbf166181" />
+
 ---
 
 ## 🧠 Focus
