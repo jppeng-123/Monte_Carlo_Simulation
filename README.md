@@ -29,6 +29,9 @@ Risk control > raw returns
 
 Simulate thousands of futures, not one guess.
 
+<img width="1007" height="671" alt="image" src="https://github.com/user-attachments/assets/ac29d3ee-bd0b-449c-a9f0-2a2a59a28d61" />
+
+
 ---
 
 ## 🛠 Stack
